@@ -1,0 +1,6 @@
+The average number of devices that an Encost Wifi Router is connected to: 150
+The min number and max number of devices that an Encost Wifi Router is connected to: 50-120
+The average number of Encost Hubs/Controllers that an Encost Smart Device is receiving commands from: 120
+The min number and max number of Encost Hubs/Controllers that an Encost Smart Device is receiving commands from: 50-120
+The average number of Encost Smart devices that an Encost Hub/Controller is sending commands to: 50
+The min number and max number of Encost Smart devices that an Encost Hub/Controller is sending commands to: 50-120
